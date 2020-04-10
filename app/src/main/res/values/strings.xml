@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiAgil</string>
+    <string name="ingresa_tu_usuario">Ingresa tu suario</string>
+    <string name="ingresa_tu_contrase_a">Ingresa tu contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="olvid_mi_contrase_a"></string>
+    <string name="iniciar">Iniciar Sesion</string>
+
+    <string name="title_activity_splash">splashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
